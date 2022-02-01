@@ -1,9 +1,14 @@
 ### 👋🏻Hi, I am <strong>Pulkit Khatter<strong> 
-<hr style="width:50%;text-align:left;margin-left:0">
 <h2>I'm a Developer and Student</h2> 
 <hr style="width:50%;text-align:left;margin-left:0">
 <h2>About Me:</h2>
-<hr style="width:50%;text-align:left;margin-left:0">
+   I am <strong>Pulkit Khatter.</strong> I am undergraduate in B.Tech (Hons)
+      Computer Science Engineering - Full Stack Software Development From Lovely
+      Professional University. I would like to define myself as a
+      <em>Technology Enthusiast</em> Person who works with Proper Planning &
+      Time Management. <br /> In 
+      I wish to use my Technical acumen to Contribute to a team that create a
+      positive impact on scale and creats Positive Impact on society.
 
 <!--
 **pulkitkhatter/pulkitkhatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
