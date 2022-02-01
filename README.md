@@ -1,4 +1,9 @@
 ### 👋🏻Hi, I am Pulkit Khatter 
+<hr>
+I'm a Developer and Student 
+<hr>
+About Me:
+<hr>
 
 <!--
 **pulkitkhatter/pulkitkhatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
