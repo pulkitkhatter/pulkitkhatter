@@ -11,8 +11,8 @@
       positive impact on scale and creats Positive Impact on society.
    <h2>Taking about personal Stuffs:
       <ol>
-         <li>I'm interested in Data Science,Full Stack Web Development</li>
-         <li>Mern Developer</li>
+         <li>🎯I'm interested in Data Science,Full Stack Web Development</li>
+         <li>⚙Mern Developer</li>
          <li>⏱Ask me about anything, I am Happy to Help.</li>
          </ol>
 
