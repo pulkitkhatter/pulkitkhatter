@@ -7,8 +7,7 @@
       Professional University. I would like to define myself as a
       <em>Technology Enthusiast</em> Person who works with Proper Planning &
       Time Management. <br /> In 
-      I wish to use my Technical acumen to Contribute to a team that create a
-      positive impact on scale and creats Positive Impact on society.
+      I wish to use my Technical acumen to Contribute to a team that works at scale and creats Positive Impact on society.
    <h2>Taking about personal Stuffs:
       <ol>
          <li>🎯I'm interested in Data Science,Full Stack Web Development</li>
