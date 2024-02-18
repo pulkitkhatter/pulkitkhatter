@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pulkit</h1>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=pulkitkhatter&label=Profile%20views&color=0e75b6&style=flat" alt="pulkitkhatter" /> </p>
-
+<p align="left">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" /> 
+ </p>
 <p align="left"> <a href="https://twitter.com/pulkit234" target="blank"><img src="https://img.shields.io/twitter/follow/pulkit234?logo=twitter&style=for-the-badge" alt="pulkit234" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
