@@ -69,6 +69,16 @@ I hold a B.Tech (Hons) in Computer Science Engineering (Full Stack Software Deve
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**conversational-support-agent**](https://github.com/pulkitkhatter/conversational-support-agent) | Production-grade conversational AI agent with RAG, tool calling, persistent memory, human escalation and evaluations | Python, FastAPI |
+| [**shopsphere**](https://github.com/pulkitkhatter/shopsphere) | Microservices e-commerce platform with API gateway, service discovery and OAuth2/JWT auth | Java, Spring Boot, MongoDB, Kafka, Redis |
+| [**shadow-dash**](https://github.com/pulkitkhatter/shadow-dash) · [play](https://pulkitkhatter.github.io/shadow-dash/) | Free neon endless runner that runs in the browser, mobile friendly | HTML5, JavaScript |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
